@@ -202,7 +202,7 @@ This page focuses on:
 ---
 
 ## 📷 Dashboard Preview
-!image_alt](image_url)
+
 <img width="1536" height="1024" alt="Diversity and Inclusion Dashboard" src="https://github.com/user-attachments/assets/b682f1b6-c225-4543-81fe-6067f9d5110f" />
 
 
