@@ -1,4 +1,3 @@
-# Diversity-and-Inclusion-Analysis-Report
 
 # 🌍 Diversity & Inclusion Analysis Dashboard
 
